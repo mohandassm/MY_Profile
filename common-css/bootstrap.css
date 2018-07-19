@@ -2086,7 +2086,7 @@ pre code {
 .table td {
   padding: 0.75rem;
   vertical-align: top;
-  border-top: 1px solid #eceeef;
+  border: 1px solid #521573;
 }
 
 .table thead th {
